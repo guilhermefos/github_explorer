@@ -10,11 +10,11 @@
   Explore awesome Github repositories. Search for your favorites repositories!
 </p>
 
-[![Author](https://img.shields.io/badge/author-GuilhermeOliveira-D54F44?style=flat-square)](https://github.com/guilhermefos)
-[![Languages](https://img.shields.io/github/languages/count/guilhermefos/github-explorer?color=%23D54F44&style=flat-square)](#)
-[![Stars](https://img.shields.io/github/stars/guilhermefos/github-explorer?color=D54F44&style=flat-square)](https://github.com/guilhermefos/github-explorer/stargazers)
-[![Forks](https://img.shields.io/github/forks/guilhermefos/github-explorer?color=%23D54F44&style=flat-square)](https://github.com/guilhermefos/github-explorer/network/members)
-[![Contributors](https://img.shields.io/github/contributors/guilhermefos/github-explorer?color=D54F44&style=flat-square)](https://github.com/guilhermefos/github-explorer/graphs/contributors)
+[![Author](https://img.shields.io/badge/author-GuilhermeOliveira-2ea44f?style=flat-square)](https://github.com/guilhermefos)
+[![Languages](https://img.shields.io/github/languages/count/guilhermefos/github-explorer?color=%232ea44f&style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/guilhermefos/github-explorer?color=2ea44f&style=flat-square)](https://github.com/guilhermefos/github-explorer/stargazers)
+[![Forks](https://img.shields.io/github/forks/guilhermefos/github-explorer?color=%232ea44f&style=flat-square)](https://github.com/guilhermefos/github-explorer/network/members)
+[![Contributors](https://img.shields.io/github/contributors/guilhermefos/github-explorer?color=2ea44f&style=flat-square)](https://github.com/guilhermefos/github-explorer/graphs/contributors)
 
 # :pushpin: Table of Contents
 
@@ -55,3 +55,26 @@ Run the following scripts in order to execute the application in development mod
   // Start the application
   yarn start
 ```
+
+# :postbox: Faq
+
+**Question:** What are the technologies used in this project?
+
+**Answer:** The tecnologies used in this project are [React Js](https://reactjs.org/), to develop amazing views [Styled Components](https://styled-components.com/) and to get the repositories info [Github API](https://developer.github.com/v3/)
+
+##
+
+# :bug: Issues
+
+Feel free to **file a new issue** with a respective title and description on the the [Github Explorer](https://github.com/guilhermefos/github-explorer/issues) repository. If you already found a solution to your problem, **i would love to review your pull request**! Have a look at our [contribution guidelines]() to find out about the coding standards.
+
+# :tada: Contributing
+
+Check out the [contributing]() page to see the best places to file issues, start discussions and begin contributing.
+
+# :closed_book: License
+
+Released in 2020.
+This project is under the [MIT license]().
+
+Made to fly by [Guilherme Oliveira](https://github.com/guilhermefos) 🚀
