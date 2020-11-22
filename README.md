@@ -72,6 +72,6 @@ Check out the [contributing](https://github.com/guilhermefos/github-explorer/blo
 # :closed_book: License
 
 Released in 2020.
-This project is under the [MIT license]().
+This project is under the [MIT license](https://github.com/guilhermefos/github-explorer/blob/master/LICENSE).
 
 Made to fly by [Guilherme Oliveira](https://github.com/guilhermefos) 🚀
