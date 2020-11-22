@@ -11,16 +11,10 @@
 </p>
 
 [![Author](https://img.shields.io/badge/author-GuilhermeOliveira-D54F44?style=flat-square)](https://github.com/guilhermefos)
-
 [![Languages](https://img.shields.io/github/languages/count/guilhermefos/github-explorer?color=%23D54F44&style=flat-square)](#)
-
 [![Stars](https://img.shields.io/github/stars/guilhermefos/github-explorer?color=D54F44&style=flat-square)](https://github.com/guilhermefos/github-explorer/stargazers)
-
 [![Forks](https://img.shields.io/github/forks/guilhermefos/github-explorer?color=%23D54F44&style=flat-square)](https://github.com/guilhermefos/github-explorer/network/members)
-
 [![Contributors](https://img.shields.io/github/contributors/guilhermefos/github-explorer?color=D54F44&style=flat-square)](https://github.com/guilhermefos/github-explorer/graphs/contributors)
-
-[![Size](https://img.shields.io/github/repo-size/guilhermefos/github-explorer?color=%D54F44](https://github.com/guilhermefos)
 
 # :pushpin: Table of Contents
 
