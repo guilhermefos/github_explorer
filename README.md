@@ -51,10 +51,7 @@ SSH URLs provide access to a Git repository via SSH, a secure protocol. If you h
 
 Run the following scripts in order to execute the application in development mode
 
-```
-  // Start the application
-  yarn start
-```
+`yarn start`
 
 # :postbox: Faq
 
