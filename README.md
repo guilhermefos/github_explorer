@@ -63,11 +63,11 @@ Run the following scripts in order to execute the application in development mod
 
 # :bug: Issues
 
-Feel free to **file a new issue** with a respective title and description on the the [Github Explorer](https://github.com/guilhermefos/github-explorer/issues) repository. If you already found a solution to your problem, **i would love to review your pull request**! Have a look at our [contribution guidelines]() to find out about the coding standards.
+Feel free to **file a new issue** with a respective title and description on the the [Github Explorer](https://github.com/guilhermefos/github-explorer/issues) repository. If you already found a solution to your problem, **i would love to review your pull request**! Have a look at our [contribution guidelines](https://github.com/guilhermefos/github-explorer/blob/master/CONTRIBUTING.md) to find out about the coding standards.
 
 # :tada: Contributing
 
-Check out the [contributing]() page to see the best places to file issues, start discussions and begin contributing.
+Check out the [contributing](https://github.com/guilhermefos/github-explorer/blob/master/CONTRIBUTING.md) page to see the best places to file issues, start discussions and begin contributing.
 
 # :closed_book: License
 
