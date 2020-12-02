@@ -18,7 +18,7 @@
 
 # :pushpin: Table of Contents
 
-- [Live Preview](https:\github-explore.firebaseapp.com/)
+- [Live Preview](#live-preview)
 - [Features](#rocket-features)
 - [Installation](#construction_worker-installation)
 - [Getting Started](#runner-getting-started)
@@ -26,6 +26,10 @@
 - [Found a bug? Missing a specific feature?](#bug-issues)
 - [Contributing](#tada-contributing)
 - [License](#closed_book-license)
+
+# :live-preview: Live Preview
+
+[Demo](https:\github-explore.firebaseapp.com/)
 
 # :rocket: Features
 
