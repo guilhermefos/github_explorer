@@ -18,7 +18,7 @@
 
 # :pushpin: Table of Contents
 
-- [Live Preview](#live-preview)
+- [Live Preview](#eye_speech_bubble-preview)
 - [Features](#rocket-features)
 - [Installation](#construction_worker-installation)
 - [Getting Started](#runner-getting-started)
@@ -27,7 +27,7 @@
 - [Contributing](#tada-contributing)
 - [License](#closed_book-license)
 
-# :live-preview: Live Preview
+# :eye_speech_bubble: Live Preview
 
 [Demo](https:\github-explore.firebaseapp.com/)
 
