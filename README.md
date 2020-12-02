@@ -7,8 +7,10 @@
 </p>
 
 <p align="center">
-  Explore awesome Github repositories. Search for your favorites repositories! ([Demo](https:\\github-explore.firebaseapp.com/))
+  Explore awesome Github repositories. Search for your favorites repositories!
 </p>
+
+([Demo](https:\github-explore.firebaseapp.com/))
 
 [![Author](https://img.shields.io/badge/author-GuilhermeOliveira-2ea44f?style=flat-square)](https://github.com/guilhermefos)
 [![Languages](https://img.shields.io/github/languages/count/guilhermefos/github-explorer?color=%232ea44f&style=flat-square)](#)
