@@ -29,7 +29,7 @@
 
 # :eye_speech_bubble: Live Preview
 
-[Demo](https:\github-explore.firebaseapp.com/)
+[Demo](https://github-explore.firebaseapp.com/)
 
 # :rocket: Features
 
