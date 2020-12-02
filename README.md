@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Explore awesome Github repositories. Search for your favorites repositories!
+  Explore awesome Github repositories. Search for your favorites repositories! ([Demo](https:\\github-explore.firebaseapp.com/))
 </p>
 
 [![Author](https://img.shields.io/badge/author-GuilhermeOliveira-2ea44f?style=flat-square)](https://github.com/guilhermefos)
